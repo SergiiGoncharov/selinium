@@ -1,0 +1,28 @@
+{
+  "name": "selinium",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "test.js",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.3"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "^2.53.3"
+  },
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergiiGoncharov/selinium.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergiiGoncharov/selinium/issues"
+  },
+  "homepage": "https://github.com/SergiiGoncharov/selinium#readme"
+}
